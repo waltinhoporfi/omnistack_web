@@ -1,4 +1,6 @@
+/* Estilização global, ou seja aplicável em todo projeto */
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+/* fonts.google.com/specimen/Roboto */
 
 *{
     margin: 0;
